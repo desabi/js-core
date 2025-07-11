@@ -110,7 +110,7 @@ var legacyVariable = "Only use var when necessary";
 // 5. Temporal Dead Zone (TDZ) example
 console.log("\n--- Temporal Dead Zone Example ---");
 
-console.log("Before declaration:", typeof undeclaredVar); // undefined
+console.log("Before declaration:", typeof undeclaredVar); // undefined, (var is hoisted and initialized)
 // console.log(undeclaredLet); // ReferenceError: Cannot access 'undeclaredLet' before initialization
 
 let undeclaredLet = "I'm declared later";
