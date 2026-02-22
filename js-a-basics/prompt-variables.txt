@@ -1,0 +1,27 @@
+
+Take role of an expert javascript developer.
+As Java developer, I want to learn javascript.
+The first topic that I want to study is variable declarations.
+Please give me a long, detailed, and thorough explanation.
+
+----
+
+Assume the role of an expert JavaScript developer.
+I want to learn JavaScript. The first topic I want to master is variable declaration.
+Please give me a long, detailed, and complete explanation.
+
+----
+
+Assume the role of an expert JavaScript developer.
+I want to learn JavaScript. The first topic I want to master is variable declaration.
+Focus only in the var option to declare variables, with the next points:
+1.
+2. 
+
+Please give me a long, detailed, and complete explanation.
+-------------------------
+
+Assume the role of an expert JavaScript developer.
+I want to learn JavaScript. The first topic I want to master is variable declaration.
+Focus only on the "var" keyword sentence, and all about how to use it, how it works, all information related to this keyword. A complete guide.
+Please, give me a long, detailed, and complete explanation.
